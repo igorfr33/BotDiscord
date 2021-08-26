@@ -1,0 +1,1 @@
+"cotacoes: python botCotacoes.py"
