@@ -1,6 +1,6 @@
 import discord
-import requests
 from discord.ext import commands
+import requests
 
 client = commands.Bot(command_prefix = ">", case_insensitive = True)
 
