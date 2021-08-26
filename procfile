@@ -1,1 +1,1 @@
-cotacoes: python "botCotacoes.py"
+botCotacoes: python3 "botCotacoes.py"
