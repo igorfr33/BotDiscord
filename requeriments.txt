@@ -1,5 +1,5 @@
 discord.py
-discord
+discord.ext
 commands
 request
 Pylance
